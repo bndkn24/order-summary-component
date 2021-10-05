@@ -12,9 +12,10 @@ body {
 
 #bg-img{
   background-image: url(./images/pattern-background-mobile.svg);
-  background-size: auto auto;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: -1;
 }
 
 p {
