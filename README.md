@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/flexbox-css-2g_N4CtZK)
 - Live Site URL: [Live Site](https://jovial-yalow-cf289a.netlify.app/)
 
 ## My process
