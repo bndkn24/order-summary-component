@@ -60,6 +60,11 @@ p {
   margin: 0 30px;
 }
 
+#change:hover {
+  color: hsl(223, 47%, 23%);
+  text-decoration: none;
+}
+
 #payment-btn {
   background-color: hsl(245, 75%, 52%);
   padding: 10px 40px;
